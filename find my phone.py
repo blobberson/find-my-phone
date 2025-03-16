@@ -77,6 +77,6 @@ The clones' physical and social isolation from the rest of society, their subdue
 Ishiguro, Kazuo. *Never Let Me Go.* Vintage, 2005.
 
 ")
-  print("b is greater than a")
+  print("go to this link github.com/stiffstuff/find-my-phone/blob/main/findpjonw.html")
 else:
   print("wrong")
